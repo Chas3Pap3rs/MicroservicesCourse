@@ -104,3 +104,4 @@
 /Users/chasepoulton/Desktop/C#/Microservices/CommandsService/obj/Debug/net8.0/CommandsService.pdb
 /Users/chasepoulton/Desktop/C#/Microservices/CommandsService/obj/Debug/net8.0/CommandsService.genruntimeconfig.cache
 /Users/chasepoulton/Desktop/C#/Microservices/CommandsService/obj/Debug/net8.0/ref/CommandsService.dll
+/Users/chasepoulton/Desktop/C#/Microservices/CommandsService/obj/Debug/net8.0/CommandsService.sourcelink.json
